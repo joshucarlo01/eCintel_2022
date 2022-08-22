@@ -1,0 +1,44 @@
+/****
+Custom CSS:
+eCintel Site;
+
+#1A4C85 - Blue
+#5AA12C - Green
+
+****/
+
+.color_gray
+{
+    background-color: #f1f1f1;
+}
+.color_green
+{
+    background-color: #5AA12C;
+}
+
+.border_green
+{
+    border-color: #5AA12C !important;
+}
+
+.text_blue, h3, h2
+{
+    color: #1A4C85;
+}
+.bg_blue
+{
+    background-color: #1A4C85;
+}
+.card
+{
+    flex-direction: column;
+}
+.video_w
+{
+    max-width: 100%;
+}
+
+
+/****
+media query
+****/
