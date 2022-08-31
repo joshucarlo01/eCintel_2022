@@ -11,6 +11,10 @@ eCintel Site;
 {
     background-color: #f1f1f1;
 }
+.color_lightgrey
+{
+    background-color: #f2f2f2; 
+}
 .color_green
 {
     background-color: #5AA12C;
@@ -21,10 +25,11 @@ eCintel Site;
     border-color: #5AA12C !important;
 }
 
-.text_blue, h3, h2
+.text_blue, h3, h2, h5
 {
     color: #1A4C85;
 }
+
 .bg_blue
 {
     background-color: #1A4C85;
@@ -32,6 +37,10 @@ eCintel Site;
 .card
 {
     flex-direction: column;
+}
+.margin_left
+{
+    margin-left: 50px;
 }
 .video_w
 {
