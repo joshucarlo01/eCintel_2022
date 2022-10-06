@@ -29,6 +29,10 @@ eCintel Site;
 {
     color: #1A4C85;
 }
+.text_green
+{
+    color: #5AA12C !important; 
+}
 
 .bg_blue
 {
@@ -46,7 +50,10 @@ eCintel Site;
 {
     max-width: 100%;
 }
-
+.float_right
+{
+    float: right;
+}
 
 /****
 media query
